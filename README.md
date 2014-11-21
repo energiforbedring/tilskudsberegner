@@ -77,5 +77,39 @@ Returnerer den nuværende versionr.
 *SetDFF_referenceID*
 Bruges ikke
 
+### Hovedoverskrifter i Standardværdikataloget
+
+Standardværdikatalogets hovednodes består af følgende fra .NET WebServicen:
+
+Belysning
+Biomasse
+Cirkulationspumper
+EL-besparelser diverse
+Feedback om elforbrug
+Fjernvarmeanlæg, afkølings- og energibesparelser
+Gaskedler
+Klimaskærm - isolering
+Klimaskærm - vinduer, ovenlys og døre
+Køl-frys
+Kontorudstyr
+Madlavning
+Oliekedler
+Solceller
+Solvarme
+Varmepumper
+Vaskeapparater
+
 ## Nyt energitilskudsprogram
+
+Der skal udføres en research der tager målgrupper som udgangspunkt - og dernæst tænker dataudtræk fra WebServicen ind. Udarbejdelse af flowdiagrammer og algoritmer er i gang.
+
+Den lineære liste over energiforbedrende foranstaltninger skal abstraheres, så det bliver forståeligt, struktureret og overskueligt set fra brugerens side. Eksempelvis tages udgangspunkt i et hus, hvor der er visuelle illustrationer af forskellige elementer i et hus.
+
+Programmet skal serveres direkte på Energikøb.dk uden at have bestå af forvirrende pop-up-bokse. Brugerflowet skal være langt mere brugervenligt, hvor overflødige knapper som "Tilføj den første besparelse" skal væk. Det grafiske bruger-interface skal ikke have pile, der vender imod urets retning, da dette er counter-intuitivt. Især da udfyldning af spørgeskemaet i forvejen må anses som teknisk og fremmed for brugeren. Der skal lægges mange kræfter i at gøre brugerfladen så let som muligt at benytte.## Nyt energitilskudsprogram
+
+Det nye tilskudsprogram skal have mere fokus på overskuelighed og brugervenlighed. Som den nuværende, kommer der en forstyrrende pop-op-boks, der fortæller kontaktinfo i det øjeblik man har trykket på Call to Action-knappen. Tingene skal ligeledes foretages on site - og uden udgående links der forstyrrer brugeren i processen.
+
+Det er afgørende for succes med konverteringerne, at brugeren hele flowet igennem, føler sig klog og har styr på og overblik over hvad de skal og hvor i processen. Det skal ligeledes være mere tydeligt hvilke ulemper der reduceres og hvilke fordele der opnåes.
+
+Flowet for testen skal være mere brugercentreret, hvis muligt, udfra Standardværdikatalogets WebService.
 
