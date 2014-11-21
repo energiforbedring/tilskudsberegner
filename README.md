@@ -33,4 +33,4 @@ LED pærer
 Tænd/sluk/spareskinner
 Standardværdikatalog for energibesparelser
 
-[a link](http://energikoeb.dk/)Energikøb.dk
+[Energikøb.dk](http://energikoeb.dk/)
