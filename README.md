@@ -1,7 +1,12 @@
 #Tilskudsberegner til energiforbedringer
 ================
 
-##Et program til at beregne energitilskud fra Energistyrelsen - nuværende program
+Et program til at beregne energitilskud fra Energistyrelsen. Følgende trin gennemgåes:
+1. Der tages først udgangspunkt i eksisterende program på [Energikøb.dk](http://energikoeb.dk/)
+2. Der tages udgangspunkt i Energistyrelsens Standardværdikatalog for energibesparelser fra [Teknologisk.dk](http://svk.teknologisk.dk/Pages_open/Default.aspx)
+4. Planlægning af nyt og forbedret energitilskudsprogram
+
+## Nuværende enegitilskudsprogram
 
 Det er muligt at søge om tilskud til energiforbedringer for såvel private som erhvervskunder.
 
@@ -39,4 +44,4 @@ Herunder redirecter Ajax til en af fanerne med følgende valgmuligheder:
 
 Standardværdikatalog for energibesparelser
 
-[Energikøb.dk](http://energikoeb.dk/)
+
