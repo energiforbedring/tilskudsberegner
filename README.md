@@ -105,7 +105,7 @@ Der skal udføres en research der tager målgrupper som udgangspunkt - og dernæ
 
 Den lineære liste over energiforbedrende foranstaltninger skal abstraheres, så det bliver forståeligt, struktureret og overskueligt set fra brugerens side. Eksempelvis tages udgangspunkt i et hus, hvor der er visuelle illustrationer af forskellige elementer i et hus.
 
-Programmet skal serveres direkte på Energikøb.dk uden at have bestå af forvirrende pop-up-bokse. Brugerflowet skal være langt mere brugervenligt, hvor overflødige knapper som "Tilføj den første besparelse" skal væk. Det grafiske bruger-interface skal ikke have pile, der vender imod urets retning, da dette er counter-intuitivt. Især da udfyldning af spørgeskemaet i forvejen må anses som teknisk og fremmed for brugeren. Der skal lægges mange kræfter i at gøre brugerfladen så let som muligt at benytte.## Nyt energitilskudsprogram
+Programmet skal serveres direkte på Energikøb.dk uden at have bestå af forvirrende pop-up-bokse. Brugerflowet skal være langt mere brugervenligt, hvor overflødige knapper som "Tilføj den første besparelse" skal væk. Det grafiske bruger-interface skal ikke have pile, der vender imod urets retning, da dette er counter-intuitivt. Især da udfyldning af spørgeskemaet i forvejen må anses som teknisk og fremmed for brugeren. Der skal lægges mange kræfter i at gøre brugerfladen så let som muligt at benytte.
 
 Det nye tilskudsprogram skal have mere fokus på overskuelighed og brugervenlighed. Som den nuværende, kommer der en forstyrrende pop-op-boks, der fortæller kontaktinfo i det øjeblik man har trykket på Call to Action-knappen. Tingene skal ligeledes foretages on site - og uden udgående links der forstyrrer brugeren i processen.
 
