@@ -47,6 +47,35 @@ Herunder redirecter Ajax til en af fanerne med følgende valgmuligheder:
   - LED pærer
   - Tænd/sluk/spareskinner
 
-Standardværdikatalog for energibesparelser
+## Standardværdikatalog for energibesparelser
 
+Værdier fra Standardværdikataloget kan hentes ned via WebService fra
+
+http://svk.teknologisk.dk/WebService_SVK.asmx
+
+#### Funktionsoversigt i Standardværdikatalogets WebService
+Et kald til webservicen giver et komplet databaseudtræk. Standardværdikataloget bliver opdateret mindst en gang om året.
+
+*GetEnhedstype*
+Returnerer en XML streng som indeholder enhedstyper.
+
+*GetForsyningstype*
+Returnerer en XML streng som indeholder forsyningstyper.
+
+*GetLevetid*
+Returnerer en XML streng som indeholder levetid.
+
+*GetPrioritetsfaktor*
+Returnerer hvilken prioritetsfaktor energibesparelse i kWh skal ganges med for det valgte tiltag (identifier med dets ID). Hvis ID = 0 returneres prioritetsfaktor for hele katalog.
+
+*GetStandardvaerdikatalog*
+Returnerer en XML streng, som indeholder hele standardværdikatalog for energibesparelser. Med (parameter = True) eller uden (parameter = False) udgåede tiltag
+
+*GetVersion*
+Returnerer den nuværende versionr.
+
+*SetDFF_referenceID*
+Bruges ikke
+
+## Nyt energitilskudsprogram
 
