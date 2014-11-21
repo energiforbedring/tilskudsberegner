@@ -1,6 +1,10 @@
 # Tilskudsberegner til energiforbedringer
 ================
 
+Energitilskuddet søges ved at indgå aftale med et net- eller distributionsselskab (efter frit valg - dog maks 1) før energirenoveringen bliver startet op. Det er ikke tilladt at indgå en bindende aftale om køb af materialer, udstyr eller om selve udførelse af projektet før der bliver søgt om tilskud. 
+
+Net- og distributionsselskabet skal indberette energibesparelsen til Energistyrelsen som et led i opfyldelse af net- og distributionsselskabernes obligatoriske spareindsats, som de har indgået en aftale om med Klima-, Energi- og Bygningsministeriet. 
+
 Et program til at beregne energitilskud fra Energistyrelsen. Følgende trin gennemgåes:
 
 1. Der tages først udgangspunkt i eksisterende program på [Energikøb.dk](http://energikoeb.dk/)
@@ -11,7 +15,7 @@ Et program til at beregne energitilskud fra Energistyrelsen. Følgende trin genn
 
 Det er muligt at søge om tilskud til energiforbedringer for såvel private som erhvervskunder.
 
-###Trin 1 - nuværende program
+### Trin 1 (nuværende program)
 Når kunden skal søge om tilskuddet, sker det udfra startkriteriet nuværende kilde til opvarming af boligen.
 
 - Fjernvarme
@@ -20,10 +24,10 @@ Når kunden skal søge om tilskuddet, sker det udfra startkriteriet nuværende k
 - Olie
 - Biobrændsel
 
-### Trin 2 - nuværende progam
+### Trin 2 (nuværende progam)
 Herefter skal der vælges om boligarealet er imellem 80 og 200 kvadratmeter eller andet.
 
-### Trin 3 - nuværende program
+### Trin 3 (nuværende program)
 Herunder redirecter Ajax til en af fanerne med følgende valgmuligheder:
 - Isolering
   - Gulve/terrændæk
