@@ -7,7 +7,7 @@ Net- og distributionsselskabet skal indberette energibesparelsen til Energistyre
 
 Et program til at beregne energitilskud fra Energistyrelsen. Følgende trin gennemgåes:
 
-1. Der tages først udgangspunkt i eksisterende program på [Energikøb.dk](http://energikoeb.dk/)
+1. Der tages først udgangspunkt i eksisterende program på [Energikoeb.dk](http://energikoeb.dk/)
 2. Der tages udgangspunkt i Energistyrelsens Standardværdikatalog for energibesparelser fra [Teknologisk.dk](http://svk.teknologisk.dk/Pages_open/Default.aspx)
 3. Planlægning af nyt og forbedret energitilskudsprogram
 
