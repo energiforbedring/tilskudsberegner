@@ -111,5 +111,5 @@ Det nye tilskudsprogram skal have mere fokus på overskuelighed og brugervenligh
 
 Det er afgørende for succes med konverteringerne, at brugeren hele flowet igennem, føler sig klog og har styr på og overblik over hvad de skal og hvor i processen. Det skal ligeledes være mere tydeligt hvilke ulemper der reduceres og hvilke fordele der opnåes.
 
-Flowet for testen skal være mere brugercentreret, hvis muligt, udfra Standardværdikatalogets WebService.
+Hvis muligt, skal flowet for testen skal være mere brugercentreret udfra Standardværdikatalogets WebService.
 
