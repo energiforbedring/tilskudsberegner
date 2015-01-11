@@ -11,7 +11,7 @@ Et program til at beregne energitilskud fra Energistyrelsen. Følgende trin genn
 2. Første etape med fokus på udskiftning af elsparetiltag ([Elbesparelser](http://sparefeber.dk/spar-paa-elregningen/)), da denne gavner såvel lejer som ejerboliger.
 3. Der tages udgangspunkt i Energistyrelsens Standardværdikatalog for energibesparelser fra ([Teknologisk](http://svk.teknologisk.dk/Pages_open/Default.aspx)).
 4. Planlægning af nyt og forbedret energitilskudsprogram.
-4. Udvidelse af programmet til støtte af forslag til Smart Energi.
+4. Udvidelse af programmet til støtte af forslag til Smart Energi ([Smart Energi](http://www.smartenergi.dk/)).
 
 ## Nuværende energitilskudsprogram
 
